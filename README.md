@@ -15,3 +15,4 @@ This directory contains scraper bots that will download images of past collectio
 #### To Do
 - Replace `time.sleep()` with `wait.until()`
 - Add other scrap bots for other websites
+
